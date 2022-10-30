@@ -54,6 +54,6 @@ class studentTen
    }
    System.out.println("Name of student with highest CGPA---"+s[l].name);
    System.out.println("Ph.no. of ANU---"+s[n].phno);
-   System.out.println("Roll no. of youngest student---"+s[a].rollno);
+   System.out.println("Roll no. of student---"+s[a].rollno);
  }
 }
